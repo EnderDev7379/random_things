@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "E": "minecraft:emerald",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "E",
+    "E",
+    "S"
+  ],
+  "result": {
+    "id": "random_things:emerald_sword"
+  }
+}

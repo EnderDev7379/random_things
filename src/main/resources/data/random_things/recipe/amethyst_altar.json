@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": "minecraft:amethyst_block",
+    "N": "minecraft:netherite_block",
+    "E": "minecraft:emerald_block"
+  },
+  "pattern": [
+    "AAA",
+    " N ",
+    "EEE"
+  ],
+  "result": {
+    "id": "random_things:amethyst_altar"
+  }
+}
